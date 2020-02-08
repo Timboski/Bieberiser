@@ -20,4 +20,4 @@ jobs:
         # Artifact name
         name: Bieberiser
         # Directory containing files to upload
-        path: ./Bieberiser/Bieberiser/bin/Release
+        path: ./Bieberiser/bin/Release
